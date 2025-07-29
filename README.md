@@ -49,3 +49,25 @@ A simple Android application designed to help beginners learn the basics of the 
 
 ### Notes
 This project is for educational purposes to practice Android development basics using Java.
+
+---
+
+### Screenshots
+
+# Login Screen
+![Login Screen](screenshots/login.jpg)
+
+# Main Screen
+![Main Screen](screenshots/main.jpg)
+
+# Lessons Screen
+![Lessons Screen](screenshots/lessons.jpg)
+
+# Videos Screen
+![Videos Screen](screenshots/videos.jpg)
+
+# About Me Screen
+![About Me Screen](screenshots/about_me.jpg)
+
+
+
