@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learning Python</string>
+    <string name="about_me"><![CDATA[Hello, I\'m Ahmed I. Al-Hopi\nComputer Systems Engineer & Data Scientist\n\nI merge data science with systems engineering to build innovative technologies that solve real-world problems efficiently.\n\nI\'m a computer systems engineer and data scientist with a solid background in building scalable, secure, and data-driven solutions. Over the years, I\'ve worked on designing and implementing intelligent systems that combine backend architecture, cloud infrastructure, and advanced analytics.\n\nI specialize in building distributed systems, deploying machine learning models, and leveraging big data tools to extract actionable insights. My experience spans across fields like automation, performance optimization, and integrating AI into real-world applications.]]></string>
+</resources>
