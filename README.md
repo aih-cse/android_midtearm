@@ -58,10 +58,11 @@ This project is for educational purposes to practice Android development basics 
   <!-- الصف الأول: 3 صور -->
   <img src="screenshots/login.jpg" alt="Login Screen" width="250" style="margin: 10px;"/>
   <img src="screenshots/main.jpg" alt="Main Screen" width="250" style="margin: 10px;"/>
+  <img src="screenshots/lessons.jpg" alt="Lessons Screen" width="250" style="margin: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/lessons.jpg" alt="Lessons Screen" width="250" style="margin: 10px;"/>
+
   <!-- الصف الثاني: 2 صور -->
   <img src="screenshots/videos.jpg" alt="Videos Screen" width="250" style="margin: 10px;"/>
   <img src="screenshots/about_me.jpg" alt="About Me Screen" width="250" style="margin: 10px;"/>
